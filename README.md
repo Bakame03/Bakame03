@@ -1,6 +1,6 @@
 ![MasterHead](https://maruf001-mt.github.io/Premium-Delivery/web.gif)
-<h1 align="center">Hi 👋, I'm Bakame03</h1>
-<h3 align="center">A passionate Backend developer from Burundi</h3>
+<h1 align="center">Hi 👋, I'm Alex AKA Bakame03</h1>
+<h3 align="center">A passionate Backend developer</h3>
 
 <img align="center" alt="Coding" width=100% src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif">
 
@@ -10,15 +10,15 @@
 
 <p align="left"> <a href="https://twitter.com/bakame03" target="blank"><img src="https://img.shields.io/twitter/follow/bakame03?logo=twitter&style=for-the-badge" alt="bakame03" /></a> </p>
 
-- 🔭 I’m currently working on **NestJS projects**
+- 🔭 I’m currently working on **AI projects**
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **RAG**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
-- 💬 Ask me about **NestJS, Django, python**
+- 💬 Ask me about **NestJS, Django, python, C, C++**
 
-- 📫 How to reach me **bakamelegenie@gmail.com**
+- 📫 How to reach me **nganjialdoalex@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

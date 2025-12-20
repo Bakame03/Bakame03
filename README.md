@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on **AI projects**
 
-- 🌱 I’m currently learning **RAG**
+- 🌱 I’m currently learning about **Neural Networks**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 

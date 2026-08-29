@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **AI projects**
 
-- 🌱 I’m currently learning about **Neural Networks**
+- 🌱 I’m currently learning about **LLMs**
 
 - 👯 I’m looking to collaborate on **Backend Projects**
 
